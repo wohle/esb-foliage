@@ -1,5 +1,4 @@
 ######################################################################################################|
-# Author: Lena Wohlgemuth
 
 # This code analyzes ICP Forests foliage data for temporal trends individually for each Level II plot
 # Data can be found in the ICP Forests database: https://www.icp-forests.org/data/fm_start.php 
