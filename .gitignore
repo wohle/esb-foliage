@@ -1,0 +1,16 @@
+# File types to ignore
+**.csv
+**.pdf
+**.xlsx
+**.tiff
+**.png
+**.7z
+**.nc
+**.backup
+**.zip
+**.jpg
+**.Rdata
+
+# Folder structures to ignore
+**/01 Data/**
+.Rproj.user
